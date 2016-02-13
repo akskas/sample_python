@@ -1,7 +1,4 @@
-language: python
-
-python:
-  - 3.4
+language: go
 
 # For xunit-file module to put results in shippable folder
 env:
